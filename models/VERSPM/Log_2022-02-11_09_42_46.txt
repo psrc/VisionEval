@@ -1,0 +1,24 @@
+Test PSRC
+PSRC Test of VERSPM
+2022-02-11_09:42:46
+
+2022-02-11 09:42:46 : 2022-02-11 09:42:46 -- Initializing Model. This may take a while.
+2022-02-11 09:42:46 : Geographical indices successfully read.
+2022-02-11 09:42:49 : Geographical indices successfully read.
+2022-02-11 09:42:50 : Geography sucessfully added to datastore.
+2022-02-11 09:42:50 : Loading model parameters file.
+2022-02-11 09:42:50 : Parsing model script
+2022-02-11 09:42:50 : Success parsing model script
+2022-02-11 09:42:51 : Warning message for VE-RPAT model only. Does NOT apply to VE-RSPM or VE-State models: The value of carbon intensity for Electricity is not supplied in 'model_fuel_co2.csv' so using the default values for carbon intensity
+2022-02-11 09:42:58 : 2022-02-11 09:42:58 -- Model successfully initialized.
+2022-02-11 09:42:58 : 2022-02-11 09:42:58 -- Starting module 'CreateHouseholds' for year '2018'.
+2022-02-11 09:43:32 : 2022-02-11 09:43:31 -- Finish module 'CreateHouseholds' for year '2018'.
+2022-02-11 09:43:32 : 2022-02-11 09:43:32 -- Starting module 'PredictWorkers' for year '2018'.
+2022-02-11 09:58:04 : 2022-02-11 09:58:04 -- Finish module 'PredictWorkers' for year '2018'.
+2022-02-11 09:58:04 : 2022-02-11 09:58:04 -- Starting module 'AssignLifeCycle' for year '2018'.
+2022-02-11 09:58:14 : 2022-02-11 09:58:14 -- Finish module 'AssignLifeCycle' for year '2018'.
+2022-02-11 09:58:14 : 2022-02-11 09:58:14 -- Starting module 'PredictIncome' for year '2018'.
+2022-02-11 09:59:07 : 2022-02-11 09:59:07 -- Finish module 'PredictIncome' for year '2018'.
+2022-02-11 09:59:07 : 2022-02-11 09:59:07 -- Starting module 'PredictHousing' for year '2018'.
+2022-02-11 10:15:32 : 2022-02-11 10:15:32 -- Starting module 'PredictHousing' for year '2018'.
+2022-02-11 10:51:52 : 2022-02-11 10:51:52 -- Starting module 'LocateEmployment' for year '2018'.
