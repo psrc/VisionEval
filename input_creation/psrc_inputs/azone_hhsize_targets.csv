@@ -1,3 +1,3 @@
-Unnamed: 0,Geo,Year,AveHhSize,Prop1PerHh
-0,PSRC,2018,,0.3
-1,PSRC,2050,,
+Geo,Year,AveHhSize,Prop1PerHh
+PSRC,2018,,0.3
+PSRC,2050,,
