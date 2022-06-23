@@ -1,0 +1,12 @@
+See instructions in Building.md
+
+One issue is that RStudio needs to be run in admin mode to ensure a build
+
+To add in PSRC survey data, we need to build from scratch after copying in the survey Rda files
+The survey Rda files are generated from the scripts here. 
+Copy them to VisionEval\sources\modules\VE2001NHTS\data-raw
+
+We need to get the full code (I think) to be able to build?
+use the VisionEval_build code for that.
+
+In order to create estimation datasets, use ve.build(express=FALSE)
